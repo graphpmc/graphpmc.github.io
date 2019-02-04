@@ -9,7 +9,7 @@ var graphHeight = 650
 var arrowHeight = 5
 var arrowWidth = 5
 
-var neo4jAPIURL = 'http://35.246.2.161:7473/db/data/transaction/commit'
+var neo4jAPIURL = 'https://35.246.2.161:7473/db/data/transaction/commit'
 
 var neo4jLogin = 'neo4j'
 var neo4jPassword = '1234'
